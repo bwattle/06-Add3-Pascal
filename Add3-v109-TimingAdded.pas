@@ -70,3 +70,4 @@ Begin {Main programme}
   Writeln('In days, this is ',startTime/(1000*3600*24),
   ' in scientific notation or ',startTime/(1000*3600*24): 1: 2);
 End.
+
